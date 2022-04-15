@@ -131,7 +131,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Вы нашли заблокированную сейф с цветной клавиатурой, вы должны разблокировать её, введя правильную последовательность цветов.",
+ 	 	 	 	 	"trans": "Вы нашли заблокированный сейф с цветной клавиатурой, вы должны разблокировать его, введя правильную последовательность цветов.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -696,7 +696,7 @@
  	 	},
  	 	"notificationCenter": {
  	 	 	"deleteTip": {
- 	 	 	 	"trans": "Длинный Нажмите, чтобы удалить",
+ 	 	 	 	"trans": "Зажмите, чтобы удалить",
  	 	 	 	"eng": "Long press to delete"
  	 	 	}
  	 	},
@@ -1326,7 +1326,7 @@
  	 	 	 	},
  	 	 	 	"selectConfirm": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Выберите эмблему?",
+ 	 	 	 	 	 	"trans": "Выбрать эмблему?",
  	 	 	 	 	 	"eng": "Select Emblem?"
  	 	 	 	 	}
  	 	 	 	},
@@ -1586,7 +1586,7 @@
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activateDescription": {
- 	 	 	 	"trans": "Калибровочное ядро требуется для калибровки оборудования",
+ 	 	 	 	"trans": "Для калибровки оборудования требуется калибровочное ядро",
  	 	 	 	"eng": "A Calibration Core is required to calibrate equipment"
  	 	 	},
  	 	 	"activating": {
@@ -1717,7 +1717,7 @@
  	 	},
  	 	"npcSellPage": {
  	 	 	"autoSell": {
- 	 	 	 	"trans": "Авто продается",
+ 	 	 	 	"trans": "Авто продажа",
  	 	 	 	"eng": "Auto Sell"
  	 	 	}
  	 	},
@@ -1777,7 +1777,7 @@
  	 	},
  	 	"statsPage": {
  	 	 	"quitGang": {
- 	 	 	 	"trans": "Выйти из банда",
+ 	 	 	 	"trans": "Выйти из банды",
  	 	 	 	"eng": "Quit Gang"
  	 	 	},
  	 	 	"logout": {
@@ -2101,7 +2101,7 @@
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Крит урон",
+ 	 	 	 	"trans": "Крит. урон",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
