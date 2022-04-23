@@ -746,7 +746,7 @@
  	 	 	},
  	 	 	"buyUnit": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Купить Unit",
+ 	 	 	 	 	"trans": "Купить Юнит",
  	 	 	 	 	"eng": "Buy Unit"
  	 	 	 	}
  	 	 	}
@@ -987,7 +987,7 @@
  	 	 	},
  	 	 	"marketShortcut": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "AMADON",
+ 	 	 	 	 	"trans": "АМАДОН",
  	 	 	 	 	"eng": "Amadon"
  	 	 	 	}
  	 	 	},
@@ -1490,7 +1490,7 @@
  	 	},
  	 	"craftingPage": {
  	 	 	"onlyShowCraftable": {
- 	 	 	 	"trans": "Скрыть рецепты, которые ты не можешь сделать",
+ 	 	 	 	"trans": "Скрыть рецепты, которые ты не можешь изготовить",
  	 	 	 	"eng": "Hide recipes that you can\\'t craft"
  	 	 	},
  	 	 	"title": {
@@ -1546,7 +1546,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"playerCount"
  	 	 	 	],
- 	 	 	 	"trans": "${playerCount} плеер (ы) подключен",
+ 	 	 	 	"trans": "${playerCount} игрок(и) подключен(ы)",
  	 	 	 	"eng": "${playerCount} player(s) connected"
  	 	 	}
  	 	},
@@ -1620,7 +1620,7 @@
  	 	},
  	 	"landing": {
  	 	 	"subtile": {
- 	 	 	 	"trans": "CyberPunk Текстовая MMORPG",
+ 	 	 	 	"trans": "Текстовый киберпанк MMORPG",
  	 	 	 	"eng": "Cyberpunk Text-based MMORPG"
  	 	 	},
  	 	 	"description1": {
@@ -1894,7 +1894,7 @@
  	 	 	"eng": "Equipped"
  	 	},
  	 	"ok": {
- 	 	 	"trans": "В ПОРЯДКЕ",
+ 	 	 	"trans": "ОК",
  	 	 	"eng": "OK"
  	 	},
  	 	"level": {
@@ -2225,7 +2225,7 @@
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Уменьшает время, необходимое для выполнения AFK задач",
+ 	 	 	 	"trans": "Уменьшает время, необходимое для выполнения АФК задач",
  	 	 	 	"eng": "Reduce AFK task required time"
  	 	 	}
  	 	},
@@ -3541,7 +3541,7 @@
  	 	},
  	 	"upgradeChanceIncreaser0": {
  	 	 	"name": {
- 	 	 	 	"trans": "Калибровочный фрагмент ИИ (5%)",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (5%)",
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	}
  	 	},
@@ -3551,13 +3551,13 @@
  	 	 	 	 	"percent",
  	 	 	 	 	"duration"
  	 	 	 	],
- 	 	 	 	"trans": "Содержит фрагменты Advance AI, предназначенный для помощи с модернизацией оборудования. При использовании уменьшается вероятность разрушительной недостаточности на ${percent}% (штабелируется) за ${duration} минут",
+ 	 	 	 	"trans": "Содержит фрагменты передового ИИ, предназначенного для помощи с модернизацией оборудования. При использовании уменьшается вероятность разрушительного провала на ${percent}% (накапливается) за ${duration} минут",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments. When used, decreases the chance of destructive failure by ${percent}% (stackable) for ${duration} minutes"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Калибровочный фрагмент ИИ (10%)",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (10%)",
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	}
  	 	},
@@ -3574,13 +3574,13 @@
  	 	},
  	 	"upgradeChanceIncreaser2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Калибровочный фрагмент ИИ (50%)",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (50%)",
  	 	 	 	"eng": "Calibration AI Shard (50%)"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser2personal": {
  	 	 	"name": {
- 	 	 	 	"trans": "Калибровочный фрагмент ИИ (50%) [Событие]",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (50%) [Событие]",
  	 	 	 	"eng": "Calibration AI Shard (50%) [EVENT]"
  	 	 	},
  	 	 	"description": {
@@ -3590,7 +3590,7 @@
  	 	},
  	 	"upgradeChanceIncreaser3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Калибровочный фрагмент ИИ (100%)",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (100%)",
  	 	 	 	"eng": "Calibration AI Shard (100%)"
  	 	 	}
  	 	},
@@ -3599,13 +3599,13 @@
  	 	 	 	"vars": [
  	 	 	 	 	"percent"
  	 	 	 	],
- 	 	 	 	"trans": "Калибровка Ai Shard (${percent}%)",
+ 	 	 	 	"trans": "Калибровка осколока ИИ (${percent}%)",
  	 	 	 	"eng": "Calibration AI Shard (${percent}%)"
  	 	 	}
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Наноботы безопасной калибровки",
+ 	 	 	 	"trans": "Калибровка Наноботов безопасности",
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
@@ -3639,7 +3639,7 @@
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Старый, похожий на детсадовский, фиолетовый рюкзак 'исследователя', на нем есть бирка с именем прошлого владельца \"Dora\", нося его, ты выглядишь поразительно.\r\n        увеличивает место в инвентаре когда надет",
+ 	 	 	 	"trans": "Старый, похожий на детсадовский, фиолетовый рюкзак 'исследователя', на нем есть бирка с именем прошлого владельца \"Дора\", нося его, ты выглядишь поразительно.\r\n        увеличивает место в инвентаре когда надет",
  	 	 	 	"eng": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -3649,7 +3649,7 @@
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Стандартный офисный кейс, на нем есть метка \"Arasaka\", \r\n        хоть он просторный и имеет несколько высокотехнологичных отсеков и слотов для хранения документов, не очень подходит для ношения оружия,\r\n        увеличивает место в инвентаре когда надет",
+ 	 	 	 	"trans": "Стандартный офисный кейс, на нем есть метка \"Арасака\", \r\n        хоть он просторный и имеет несколько высокотехнологичных отсеков и слотов для хранения документов, не очень подходит для ношения оружия,\r\n        увеличивает место в инвентаре когда надет",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -3719,7 +3719,7 @@
  	 	 	 	"eng": "Personal Synaptic Accelerator"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "При использовании пропустите 60 минут на задачах AFK. \r\n         должен быть использован на экране AFK",
+ 	 	 	 	"trans": "При использовании, пропустите 60 минут на задачах AФК. \r\n         должен быть использован на экране АФК",
  	 	 	 	"eng": "When used, skip 60 minutes on AFK tasks.\r\n        must be used at AFK screen"
  	 	 	}
  	 	},
@@ -4193,7 +4193,7 @@
  	 	 	 	]
  	 	 	},
  	 	 	"name": {
- 	 	 	 	"trans": "Банк Арасаки",
+ 	 	 	 	"trans": "Банк Арасака",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
@@ -4319,7 +4319,7 @@
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "С помощью манинга ты заработаешь Биткоины, однако из-за слишком большой нагрузки хэш процессоры, более известные как КВМ (Квантовые Вычислительные Машины) часто выгорают.",
+ 	 	 	 	"trans": "С помощью майнинга ты заработаешь Биткоины, однако из-за слишком большой нагрузки хэш процессоры, более известные как КВМ (Квантовые Вычислительные Машины) часто выгорают.",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -4957,7 +4957,7 @@
  	 	 	"eng": "of Life"
  	 	},
  	 	"upgradeStun": {
- 	 	 	"trans": "ошлушения",
+ 	 	 	"trans": "оглушения",
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
@@ -5162,7 +5162,7 @@
  	 	},
  	 	"block": {
  	 	 	"title": {
- 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этот игрок?",
+ 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этого игрока?",
  	 	 	 	"eng": "Are you sure you want to block this player?"
  	 	 	}
  	 	},
